@@ -1,0 +1,6 @@
+Anna Skalska K 3 2350.0 30 3 true
+Andrzej Nowak M 2 2200.0 28 1 true
+Marek Kowalski M 1 2500.0 35 2 true
+Kamil Gwóźdź M 4 3000.0 32 1 true
+Dominika Domańska M 2 2100.0 20 0 false
+Katarzyna Adamecka K 1 2600.0 24 0 false
